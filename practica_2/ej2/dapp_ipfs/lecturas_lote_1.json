@@ -1,0 +1,103 @@
+{
+  "loteId": 1,
+  "sensor": "SIM-001",
+  "umbralC": 4,
+  "lecturas": [
+    {
+      "timestamp": "2026-11-16T04:42:55.359Z",
+      "temperaturaC": 2.3
+    },
+    {
+      "timestamp": "2026-11-16T04:57:55.359Z",
+      "temperaturaC": 2.1
+    },
+    {
+      "timestamp": "2026-11-16T05:12:55.359Z",
+      "temperaturaC": 3
+    },
+    {
+      "timestamp": "2026-11-16T05:27:55.359Z",
+      "temperaturaC": 2.7
+    },
+    {
+      "timestamp": "2026-11-16T05:42:55.359Z",
+      "temperaturaC": 3.1
+    },
+    {
+      "timestamp": "2026-11-16T05:57:55.359Z",
+      "temperaturaC": 3.1
+    },
+    {
+      "timestamp": "2026-11-16T06:12:55.359Z",
+      "temperaturaC": 1.8
+    },
+    {
+      "timestamp": "2026-11-16T06:27:55.359Z",
+      "temperaturaC": 1.9
+    },
+    {
+      "timestamp": "2026-11-16T06:42:55.359Z",
+      "temperaturaC": 3.1
+    },
+    {
+      "timestamp": "2026-11-16T06:57:55.359Z",
+      "temperaturaC": 2.7
+    },
+    {
+      "timestamp": "2026-11-16T07:12:55.359Z",
+      "temperaturaC": 2
+    },
+    {
+      "timestamp": "2026-11-16T07:27:55.359Z",
+      "temperaturaC": 1.9
+    },
+    {
+      "timestamp": "2026-11-16T07:42:55.359Z",
+      "temperaturaC": 5.4
+    },
+    {
+      "timestamp": "2026-11-16T07:57:55.359Z",
+      "temperaturaC": 5.7
+    },
+    {
+      "timestamp": "2026-11-16T08:12:55.359Z",
+      "temperaturaC": 4.7
+    },
+    {
+      "timestamp": "2026-11-16T08:27:55.359Z",
+      "temperaturaC": 5.4
+    },
+    {
+      "timestamp": "2026-11-16T08:42:55.359Z",
+      "temperaturaC": 2
+    },
+    {
+      "timestamp": "2026-11-16T08:57:55.359Z",
+      "temperaturaC": 3
+    },
+    {
+      "timestamp": "2026-11-16T09:12:55.359Z",
+      "temperaturaC": 3
+    },
+    {
+      "timestamp": "2026-11-16T09:27:55.359Z",
+      "temperaturaC": 2.9
+    },
+    {
+      "timestamp": "2026-11-16T09:42:55.359Z",
+      "temperaturaC": 3.1
+    },
+    {
+      "timestamp": "2026-11-16T09:57:55.359Z",
+      "temperaturaC": 2.9
+    },
+    {
+      "timestamp": "2026-11-16T10:12:55.359Z",
+      "temperaturaC": 2.4
+    },
+    {
+      "timestamp": "2026-11-16T10:27:55.359Z",
+      "temperaturaC": 2.6
+    }
+  ]
+}
